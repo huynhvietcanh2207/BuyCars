@@ -17,7 +17,7 @@
     <header>
         <div class="container-header header-content">
             <div class="logo">
-                <img src="banner1.jpg" alt="LOGO"> <!-- Replace with your logo URL -->
+                <img src="banner1.jpg" alt="LOGO"> 
             </div>
             <nav>
                 <a href="#">Trang Chủ</a>
